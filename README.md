@@ -43,11 +43,11 @@ To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/nextwork-web-project.git
+    git clone https://github.com/yourusername/susmitha-web-project.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd nextwork-web-project
+    cd susmitha-web-project
     ```
 3. Install dependencies:
     ```bash
@@ -58,8 +58,9 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Susmitha - [susmithachowdary14@gmail.com](mailto:susmithachowdary14@gmail.com)
+Susmitha 
 
+- [Gmail](mailto:susmithachowdary14@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/susmitha-chowdary-sunkavalli-42b77b236/)
 
 <br>
@@ -67,5 +68,4 @@ Susmitha - [susmithachowdary14@gmail.com](mailto:susmithachowdary14@gmail.com)
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
 
-A big shoutout to **[NextWork](https://learn.nextwork.org/app)** for their project guide and support. [You can get started with this DevOps series project too by clicking here.](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
 
