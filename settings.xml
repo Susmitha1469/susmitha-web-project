@@ -1,0 +1,31 @@
+<settings>
+<servers>
+  <server>
+    <id>susmitha-susmitha-devops-cicd</id>
+    <username>aws</username>
+    <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
+  </server>
+</servers>
+<profiles>
+  <profile>
+    <id>susmitha-susmitha-devops-cicd</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>susmitha-susmitha-devops-cicd</id>
+        <url>https://susmitha-883105811380.d.codeartifact.us-east-1.amazonaws.com/maven/susmitha-devops-cicd/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+<mirrors>
+  <mirror>
+    <id>susmitha-susmitha-devops-cicd</id>
+    <name>susmitha-susmitha-devops-cicd</name>
+    <url>https://susmitha-883105811380.d.codeartifact.us-east-1.amazonaws.com/maven/susmitha-devops-cicd/</url>
+    <mirrorOf>*</mirrorOf>
+  </mirror>
+</mirrors>
+</settings>
