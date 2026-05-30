@@ -29,3 +29,6 @@ phases:
 artifacts:
   files:
     - target/susmitha-web-project.war
+    - appspec.yml
+    - scripts/**/*
+  discard-paths: no
